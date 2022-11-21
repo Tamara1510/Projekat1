@@ -63,7 +63,7 @@
 
 #promo
 {
-    background: rgb(46, 1, 46) url(./slike/white-wooden-texture-flooring-background_53876-63634.jpg) no-repeat center center/cover ;
+    background: rgb(46, 1, 46) url(white-wooden-texture-flooring-background_53876-63634.jpg) no-repeat center center/cover ;
     height: 300vh;
     color: black;
     
@@ -203,7 +203,7 @@
 
 #onama
 {
-    background:  url(./slike/white-wooden-texture-flooring-background_53876-63634.jpg) no-repeat center center/cover ;
+    background:  url(white-wooden-texture-flooring-background_53876-63634.jpg) no-repeat center center/cover ;
     height: 100vh;
     color: #fff;
     
