@@ -14,27 +14,7 @@
 .py-2 { padding: 2rem 0; }
 .py-3 { padding: 3rem 0; }
     
-.navFix
-{
-    background-color: black !important;
-    height: auto;
-}
 
-.navbar-hamburger
-{
-    font-size: 25px;
-    font-weight: 600;
-    color: white;
-    text-transform: uppercase;
-    padding-right: 10px;
-    
-}
-
-.navbar-hamburger:hover
-{
-    text-decoration: none;
-    color: white;
-}
 
 #navbar
 {
