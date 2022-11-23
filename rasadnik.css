@@ -3,11 +3,26 @@
     margin: 0;
 }
 
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 600px) {
     nav ul li 
     {
         width: 100%;
+        
     }
+.navbar-hamburger
+{
+    font-size: 25px;
+    font-weight: 600;
+    color: white;
+    text-transform: uppercase;
+    padding-right: 10px;
+    
+}
+
+.navbar-hamburger:hover
+{
+    text-decoration: none;
+    color: white;
 
 }
 
