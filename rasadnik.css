@@ -9,22 +9,6 @@
         width: 100%;
         
     }
-.navbar-hamburger
-{
-    font-size: 25px;
-    font-weight: 600;
-    color: white;
-    text-transform: uppercase;
-    padding-right: 10px;
-    
-}
-
-.navbar-hamburger:hover
-{
-    text-decoration: none;
-    color: white;
-
-}
 
 .py-1 { padding: 1.5rem 0; }
 .py-2 { padding: 2rem 0; }
