@@ -3,13 +3,6 @@
     margin: 0;
 }
 
-@media screen and (max-width: 600px) {
-    nav ul li 
-    {
-        width: 100%;
-        
-    }
-
 .py-1 { padding: 1.5rem 0; }
 .py-2 { padding: 2rem 0; }
 .py-3 { padding: 3rem 0; }
@@ -56,6 +49,12 @@
     background: purple;
     border-radius: 5px;
 }
+@media screen and (max-width: 600px) {
+    nav ul li 
+    {
+        width: 100%;
+        
+    }
 
 .text-primary
 {
